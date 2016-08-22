@@ -4,7 +4,7 @@ Quickly creates an rdg file with a range of computers based off the dash command
 The point of these scripts is to automate adding a lab/classroom of computers to RDCMan.
 
 How to use:
-- Open PowerShell ISE and Open Script
+- Open PowerShell ISE
 - Now you will run the ComputerNameRangeScript.ps1. Note there are 4 parameters that must be entered.
 	-base (this will be the repeating part in the computer names. For example "UHB3113-")
 	-start (this is the starting number in the range of computers)
