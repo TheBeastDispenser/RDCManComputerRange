@@ -28,7 +28,7 @@ $text | Set-Content $file -Encoding Default
 
 if ($base) {
     for ($i=$start; $i -le $end; $i++) {
-       Write-Host $base + $i;
+       Write-Host $base$i;
     "<server>
       <properties>
         <name>" + $base + $i + "</name>
