@@ -9,7 +9,7 @@ How to use:
 	-base (this will be the repeating part in the computer names. For example "UHB3113-")
 	-start (this is the starting number in the range of computers)
 	-end (this is the ending number in the range of computers)
-	-file (this is where the list of computer names will be saved)
+	-file (this is where the list of computer names will be saved. Make sure to add the .rdg extension)
 -That is all that you should have to do.
 
 Below is an example of running the scripts.
